@@ -126,7 +126,6 @@ while True:
             print(answer + "\n")
     except:
         if failed >= 10:
-            print(answers)
             while True:
                 url_or_name = input('Enable autoplay? ')
                 if url_or_name == 'y':
