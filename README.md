@@ -14,7 +14,7 @@ It needs your kahoot login to be able to access the answers for a kahoot, it wil
 
 - ## Warning
 
-- If your internet is slow you can try chaning the sleep function at line 87.
+- If your internet is slow you can try changing the sleep function at line 87.
 
 - This only works on the quiz and true/false gamemode at the moment.
 
